@@ -1,3 +1,7 @@
+#Reflection questions
+#1. I did not expect that the first value in a list is zero instead of one. It was kind of confusing and also to go from back to front it is negitive -1 not 0.
+#2. I have used excel for profit and loss before and it can be very teditous trying to find stuff within it. However, I have never came to a situation where I had to use python to in another class or internship and I am not too confident with it to say it is easier than excel.
+
 # Excercise 1
 print("---Excercise 1: Build the list ---")
 inventory = ["pen", "notebook", "stapler", "tape", "marker"]
